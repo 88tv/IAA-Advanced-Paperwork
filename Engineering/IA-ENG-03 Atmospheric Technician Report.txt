@@ -1,0 +1,31 @@
+#IA-ENG-03 Atmospheric Technician Report
+                            [color=#993333]╔═════════════════╗
+                            ║███░███░░░░██░░░░║
+                            ║░██░████░░░██░░░░║
+                            ║░░█░██░██░░██░█░░║
+                            ║░░░░██░░██░██░██░║
+                            ║░░░░██░░░████░███║
+                            ╚═════════════════╝[/color]
+[color=#6e6e6e][head=2]                 REPORT FORM: ENG-03     [/head]
+           -- This document is tied to Report Forms: ENG-00 --         [/color][color=#6e6e6e]
+
+                                       [head=3][color=#993333]Internal Affairs[/head][/color]
+█▄ █ [bold]Author: Nastasia Jacent, Nanotrasen Secretary[/bold] █ ▀█   
+
+[color=#f39f27][head=3]PERSONNEL REPORT:    ATMOSPHERIC TECHNICIAN        [/head]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+This document serves as the detail report for breaches of SOP related to the [color=#f39f27]Atmospheric Technician[/color]. Breaches of SOP detected by [color=#993333]Internal Affairs Agents[/color] in relation to the [color=#f39f27]Atmospheric Technician[/color] should be detailed in full within this document.
+
+[color=#993333][head=3]Atmospheric Technician[/head][/color]
+[ ] 1. The [color=#f39f27]Atmospheric Technician[/color] pumped harmful gases anywhere except the burn chamber.
+[ ] 2. The [color=#f39f27]Atmospheric Technician[/color] created volatile mixes of oxygen and plasma or carbon dioxide and nitrous oxide without working directly with the burn chamber.
+[ ] 4. The [color=#f39f27]Atmospheric Technician[/color] took the axe out of its case without an immediate and urgent threat to their life or urgent access to critical locations was necessary, or the [color=#f39f27]Atmospheric Technician[/color] failed to properly return and lock the axe back in its case afterwards.
+[ ] 6. The [color=#f39f27]Atmospheric Technician failed[/color] to check on the Central Alarms Computer at least once every 30 minutes.
+[ ] 7. The [color=#f39f27]Atmospheric Technician failed[/color] to report to piping or hull breaches within 15 minutes of their occurrence.
+
+[color=#993333][head=3]Crewmembers at Fault[/head][/color]
+*
+
+[color=#993333][head=3]Agent's Report[/head][/color]
+[italic]Any extraneous details deemed worth relaying to Nanotrasen should be written here.[/italic]
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

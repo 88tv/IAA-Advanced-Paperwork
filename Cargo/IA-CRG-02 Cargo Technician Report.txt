@@ -1,0 +1,36 @@
+#IA-CRG-02 Cargo Technician Report
+                            [color=#993333]╔═════════════════╗
+                            ║███░███░░░░██░░░░║
+                            ║░██░████░░░██░░░░║
+                            ║░░█░██░██░░██░█░░║
+                            ║░░░░██░░██░██░██░║
+                            ║░░░░██░░░████░███║
+                            ╚═════════════════╝[/color]
+[color=#6e6e6e][head=2]                 REPORT FORM: CRG-02     [/head]
+           -- This document is tied to Report Forms: CRG-00 --         [/color][color=#6e6e6e]
+
+                                       [head=3][color=#993333]Internal Affairs[/head][/color]
+█▄ █ [bold]Author: Nastasia Jacent, Nanotrasen Secretary[/bold] █ ▀█   
+
+[color=#b18644][head=3]PERSONNEL REPORT:    CARGO TECHNICIAN        [/head]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+This document serves as the detail report for breaches of SOP related to the [color=#b18644]Cargo Technician[/color]. Breaches of SOP detected by [color=#993333]Internal Affairs Agents[/color] in relation to the [color=#b18644]Cargo Technician(s)[/color] should be detailed in full within this document.
+
+[color=#993333][head=3]Cargo Technician[/head][/color]
+[ ] 1. A timely delivery of approved orders has failed to occur.
+[ ] 2. Restricted crates have been ordered without approval.
+[ ] 3. Funds were used for personal use without funds of 2500 credits being available and there being no outstanding orders.
+[ ] 4. Non-essential items were ordered without the [color=#b18644]Quartermaster's[/color] approval.
+[ ] 5. Locked crates were broken open.
+[ ] 6. A [color=#b18644]Cargo Technician[/color] authorized non-departmental orders without permission from the [color=#b18644]Quartermaster[/color].
+[ ] 7. [color=#b18644]Cargo[/color] is missing at least one copy of an Order Form.
+[ ] 10. A [color=#b18644]Cargo Technician[/color] requested spesos in exchange for a cargo order or autolathe usage.
+[ ] 11. A [color=#b18644]Cargo Technician[/color] traded items or favors in exchange for items with non-cargo personnel without approval from the [color=#b18644]Quartermaster[/color].
+
+[color=#993333][head=3]Crewmembers at Fault[/head][/color]
+*
+*
+
+[color=#993333][head=3]Agent's Report[/head][/color]
+[italic]Any extraneous details deemed worth relaying to Nanotrasen should be written here.[/italic]
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

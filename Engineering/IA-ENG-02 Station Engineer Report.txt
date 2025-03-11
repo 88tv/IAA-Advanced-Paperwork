@@ -1,0 +1,34 @@
+#IA-ENG-02 Station Engineer Report
+                            [color=#993333]╔═════════════════╗
+                            ║███░███░░░░██░░░░║
+                            ║░██░████░░░██░░░░║
+                            ║░░█░██░██░░██░█░░║
+                            ║░░░░██░░██░██░██░║
+                            ║░░░░██░░░████░███║
+                            ╚═════════════════╝[/color]
+[color=#6e6e6e][head=2]                 REPORT FORM: ENG-02     [/head]
+           -- This document is tied to Report Forms: ENG-00 --         [/color][color=#6e6e6e]
+
+                                       [head=3][color=#993333]Internal Affairs[/head][/color]
+█▄ █ [bold]Author: Nastasia Jacent, Nanotrasen Secretary[/bold] █ ▀█   
+
+[color=#f39f27][head=3]PERSONNEL REPORT:    STATION ENGINEER        [/head]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+This document serves as the detail report for breaches of SOP related to the [color=#f39f27]Station Engineer[/color]. Breaches of SOP detected by [color=#993333]Internal Affairs Agents[/color] in relation to the [color=#f39f27]Station Engineer[/color] should be detailed in full within this document.
+
+[color=#993333][head=3]Station Engineer[/head][/color]
+[ ] 2. The [color=#f39f27]Engineer[/color] failed to maintain the integrity of the station's engines.
+[ ] 3. [color=#f39f27]Engineers[/color] attempted to construct additional engines while at least one engine was not set up.
+[ ] 4. [color=#f39f27]Engineers[/color] carried out reconstruction, rebuilding, or personal projects while station repair was necessary.
+[ ] 5. [color=#f39f27]Engineers[/color] failed to check on each active engine at least once every 30 minutes.
+[ ] 6. [color=#f39f27]Engineers[/color] failed to constantly monitor the Supermatter Engine.
+[ ] 7. [color=#f39f27]Engineers[/color] failed to report to a hull breach within 15 minutes. 
+[ ] 9. [color=#f39f27]Engineers[/color] failed to maintain the integrity of the station's power network.
+[ ] 10. [color=#f39f27]Engineers[/color] failed to ensure that there was at least one engineering hardsuit available on the station at all times.
+
+[color=#993333][head=3]Crewmembers at Fault[/head][/color]
+*
+
+[color=#993333][head=3]Agent's Report[/head][/color]
+[italic]Any extraneous details deemed worth relaying to Nanotrasen should be written here.[/italic]
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
