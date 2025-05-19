@@ -16,8 +16,9 @@
 This document serves as the detail report for breaches of SOP related to the [color=#f39f27]Station Engineer[/color]. Breaches of SOP detected by [color=#993333]Internal Affairs Agents[/color] in relation to the [color=#f39f27]Station Engineer[/color] should be detailed in full within this document.
 
 [color=#993333][head=3]Station Engineer[/head][/color]
+[ ] 1. The [color=#f39f27]Engineer[/color] failed to ensure that the Solar Panels were properly wired, failed to active the Anti-matter Engine, or failed to coordinate a plan with the [color=#f39f27]Engineering[/color] Department to activate more powerful engines for long-term use.
 [ ] 2. The [color=#f39f27]Engineer[/color] failed to maintain the integrity of the station's engines.
-[ ] 3. [color=#f39f27]Engineers[/color] attempted to construct additional engines while at least one engine was not set up.
+[ ] 3. [color=#f39f27]Engineers[/color] attempted to construct additional engines without approval from the [color=#f39f27]Chief Engineer[/color].
 [ ] 4. [color=#f39f27]Engineers[/color] carried out reconstruction, rebuilding, or personal projects while station repair was necessary.
 [ ] 5. [color=#f39f27]Engineers[/color] failed to check on each active engine at least once every 30 minutes.
 [ ] 6. [color=#f39f27]Engineers[/color] failed to constantly monitor the Supermatter Engine.

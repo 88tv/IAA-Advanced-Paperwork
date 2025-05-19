@@ -16,8 +16,10 @@
 This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Chief Medical Officer[/color]. Breaches of SOP detected by [color=#993333]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Chief Medical Officer[/color] should be detailed in full within this document.
 
 [color=#993333][head=3]Chied Medical Officer[/head][/color]
-[ ] 3. The [color=#5b97bc]Chief Medical Officer[/color] permitted the creation of poisonous or explosive mixtures in chemistry without the consent of the [color=#cb0000]Head of Security[/color], or, failing that, the presence of clear and urgent danger to the station.
-[ ] 4. The [color=#5b97bc]Chief Medical Officer[/color] failed to make reasonable efforts to revive revivable corpses.
+[ ] 3. The [color=#5b97bc]Chief Medical Officer[/color] carried self-defense chemicals on their hypospray without the presence of a reasonable station alert level.
+[ ] 4. The [color=#5b97bc]Chief Medical Officer[/color] permitted the creation of poisonous or explosive mixtures in chemistry without the consent of the [color=#cb0000]Head of Security[/color], or, failing that, the presence of clear and urgent danger to the station.
+[ ] 5. The [color=#5b97bc]Chief Medical Officer[/color] issued the Handheld Crew Monitor to any person except a Paramedic.
+[ ] 6. The [color=#5b97bc]Chief Medical Officer[/color] failed to make reasonable efforts to revive revivable corpses.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
 *
