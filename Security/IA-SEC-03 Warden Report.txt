@@ -29,7 +29,7 @@ This document serves as the detail report for breaches of SOP related to the [co
 [ ] G-11. The [color=#cb0000]Warden[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
 
 [head=4][color=#00FFFF]BLUE[/color][/head]
-[ ] G-1. The [color=#cb0000]Warden[/color] performed an arrest while [color=#cb0000]Security Officers were active.
+[ ] G-1. The [color=#cb0000]Warden[/color] performed an arrest while [color=#cb0000]Security Officers[/color] were active.
 [ ] G-2. The [color=#cb0000]Warden[/color] failed to conduct a thorough search of a prisoner's belongings.
 [ ] B-2. Guns were provided from the armory without the [color=#cb0000]HOS[/color] or [color=#1b67a5]Captain[/color]'s approval.
 [ ] G-3. The [color=#cb0000]Warden[/color] failed to permit a trial in the circumstances described in Legal SOP, or failed to provide a suspect access to confidential meetings with their legal representative.
@@ -43,7 +43,7 @@ This document serves as the detail report for breaches of SOP related to the [co
 [ ] R-3. The [color=#cb0000]Warden[/color] failed to provide suspects access to confidential meetings with their legal representative.
 [ ] G-4. The [color=#cb0000]Warden[/color] failed to permit a suspect charged with a Tier 3 crime or greater access to legal representation during an interrogation.
 [ ] G-9. The [color=#cb0000]Warden[/color] failed to read to a prisoner the crimes they are sentenced with.
-[ ] G-11. The [color=#cb0000]Warden failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
+[ ] G-11. The [color=#cb0000]Warden[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
 *
