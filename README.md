@@ -8,3 +8,5 @@ This is a collection of files designed for the Internal Affairs Agent to use in 
 ## Tips
 * To fill out a box, you're going to have to escape the "[X]" with a backslash "\\", or else SS14 will treat it as a bullet.
 * It's usually better to send paperwork as the IAA only when you HAVE to. I often find myself giving Quartermaster's second and third chances to locate their order forms, for example, and will only resort to filling out a SOP breach when things truly get bad.
+## In-game Sample
+![Image of the SRV-04, SEC-01, and CMD-01 forms](https://i.imgur.com/qq9QDkR.png)
