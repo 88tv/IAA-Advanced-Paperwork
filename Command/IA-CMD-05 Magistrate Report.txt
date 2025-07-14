@@ -1,0 +1,33 @@
+#IA-CMD-05 Magistrate Report
+                            [color=#993333]╔═════════════════╗
+                            ║███░███░░░░██░░░░║
+                            ║░██░████░░░██░░░░║
+                            ║░░█░██░██░░██░█░░║
+                            ║░░░░██░░██░██░██░║
+                            ║░░░░██░░░████░███║
+                            ╚═════════════════╝[/color]
+[color=#6e6e6e][head=2]                 REPORT FORM: CMD-05     [/head]
+           -- This document is tied to Report Forms: CMD-00 --         [/color][color=#6e6e6e]
+
+                                       [head=3][color=#993333]Internal Affairs[/ head][/color]
+█▄ █ [bold]Author: Nastasia Jacent, Nanotrasen Secretary[/bold] █ ▀█   
+
+[color=#1b67a5][head=3]PERSONNEL REPORT:    MAGISTRATE  [/head]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+This document serves as the detail report for breaches of SOP related to the [color=#1b67a5]Magistrate[/color]. Breaches of SOP detected by [color=#993333]Internal Affairs Agents[/color] in relation to the [color=#1b67a5]Magistrate[/color] should be detailed in full within this document.
+
+[color=#993333][head=3]Magistrate[/head][/color]
+[ ] 1. The [color=#1b67a5]Magistrate[/color] failed to ensure that Space Law is correctly applied.
+[ ] 2. The [color=#1b67a5]Magistrate[/color] failed to ensure that Trials do not occur for self-evidently guilty Defendants.
+[ ] 3. The [color=#1b67a5]Magistrate[/color] overruled or attempted to overrule matters of Space Law dictated by Emergency Response Teams, Central Command Officials, or direct Central Command communications.
+[ ] 5. The [color=#1b67a5]Magistrate[/color] overruled Security on a sentence imposed on themselves.
+[ ] 6. The [color=#1b67a5]Magistrate[/color] handled matters of Standard Operating Procedure while an Internal Affairs Agent or Nanotrasen Representative was present on the station.
+[ ] 7. The [color=#1b67a5]Magistrate[/color] micromanaged and impeded the expedient functioning of Security, or otherwise concerned themselves with matters that do not warrant their oversight.
+[ ] 8. The [color=#1b67a5]Magistrate[/color] failed to contact Central Command upon ignorance of their commands regarding the proper application of Space Law and Standard Operating Procedure.
+
+[color=#993333][head=3]Crewmembers at Fault[/head][/color]
+*
+
+[color=#993333][head=3]Agent's Report[/head][/color]
+[italic]Any extraneous details deemed worth relaying to Nanotrasen should be written here.[/italic]
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
