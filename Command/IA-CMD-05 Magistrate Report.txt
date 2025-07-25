@@ -18,11 +18,11 @@ This document serves as the detail report for breaches of SOP related to the [co
 [color=#993333][head=3]Magistrate[/head][/color]
 [ ] 1. The [color=#1b67a5]Magistrate[/color] failed to ensure that Space Law is correctly applied.
 [ ] 2. The [color=#1b67a5]Magistrate[/color] failed to ensure that Trials do not occur for self-evidently guilty Defendants.
-[ ] 3. The [color=#1b67a5]Magistrate[/color] overruled or attempted to overrule matters of Space Law dictated by Emergency Response Teams, Central Command Officials, or direct Central Command communications.
-[ ] 5. The [color=#1b67a5]Magistrate[/color] overruled Security on a sentence imposed on themselves.
-[ ] 6. The [color=#1b67a5]Magistrate[/color] handled matters of Standard Operating Procedure while an Internal Affairs Agent or Nanotrasen Representative was present on the station.
-[ ] 7. The [color=#1b67a5]Magistrate[/color] micromanaged and impeded the expedient functioning of Security, or otherwise concerned themselves with matters that do not warrant their oversight.
-[ ] 8. The [color=#1b67a5]Magistrate[/color] failed to contact Central Command upon ignorance of their commands regarding the proper application of Space Law and Standard Operating Procedure.
+[ ] 3. The [color=#1b67a5]Magistrate[/color] overruled or attempted to overrule matters of Space Law dictated by Emergency Response Teams, [color=#009100]Central Command[/color] Officials, or direct [color=#009100]Central Command[/color] communications.
+[ ] 5. The [color=#1b67a5]Magistrate[/color] overruled [color=#cb0000]Security[/color] on a sentence imposed on themselves.
+[ ] 6. The [color=#1b67a5]Magistrate[/color] handled matters of Standard Operating Procedure while an [color=#993333]Internal Affairs Agent[/color] or [color=#009100]Nanotrasen Representative[/color] was present on the station.
+[ ] 7. The [color=#1b67a5]Magistrate[/color] micromanaged and impeded the expedient functioning of [color=#cb0000]Security[/color], or otherwise concerned themselves with matters that do not warrant their oversight.
+[ ] 8. The [color=#1b67a5]Magistrate[/color] failed to contact [color=#009100]Central Command[/color] upon ignorance of their commands regarding the proper application of Space Law and Standard Operating Procedure.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
 *
