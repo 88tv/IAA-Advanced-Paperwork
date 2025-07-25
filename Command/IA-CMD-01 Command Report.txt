@@ -13,7 +13,7 @@
 █▄ █ [bold]Author: Nastasia Jacent, Nanotrasen Secretary[/bold] █ ▀█   
 
 [color=#1b67a5][head=3]PERSONNEL REPORT:    COMMAND        [/head]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
-This document serves as the detail report for breaches of SOP related to the [color=#1b67a5]Command[/color] member. Breaches of SOP detected by [color=#993333]Internal Affairs Agents[/color] in relation to the [color=#1b67a5]Captain[/color] should be detailed in full within this document.
+This document serves as the detail report for breaches of SOP related to the [color=#1b67a5]Command[/color] member. Breaches of SOP detected by [color=#993333]Internal Affairs Agents[/color] in relation to the [color=#1b67a5]Command[/color] member should be detailed in full within this document.
 
 [color=#993333][head=3]Command[/head][/color]
 [ ] 1. The [color=#1b67a5]Command[/color] member failed to ensure the safety of their department.
