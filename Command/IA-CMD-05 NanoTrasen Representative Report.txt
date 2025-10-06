@@ -1,4 +1,4 @@
-#IA-CMD-06 NanoTrasen Representative Report
+#IA-CMD-05 NanoTrasen Representative Report
                             [color=#993333]╔═════════════════╗
                             ║███░███░░░░██░░░░║
                             ║░██░████░░░██░░░░║
@@ -6,7 +6,7 @@
                             ║░░░░██░░██░██░██░║
                             ║░░░░██░░░████░███║
                             ╚═════════════════╝[/color]
-[color=#6e6e6e][head=2]                 REPORT FORM: CMD-06     [/head]
+[color=#6e6e6e][head=2]                 REPORT FORM: CMD-05     [/head]
            -- This document is tied to Report Forms: CMD-00 --         [/color][color=#6e6e6e]
 
                                        [head=3][color=#993333]Internal Affairs[/head][/color]
@@ -17,8 +17,10 @@ This document serves as the detail report for breaches of SOP related to the [co
 
 [color=#993333][head=3]NanoTrasen Representative[/head][/color]
 [ ] 1. The [color=#009100]NanoTrasen Representative[/color] failed to make reasonable efforts to ensure departments are following Standard Operating Procedure, or failed to ensure that the [color=#1b67a5]Captain[/color] appointed Acting Heads of Staff for every available department.
-[ ] 3. The [color=#009100]NanoTrasen Representative[/color] failed to ensure that Space Law is being followed and correctly applied.
-[ ] 4. The [color=#009100]NanoTrasen Representative[/color] threatened the usage of a fax to [color=#009100]Centcomm[/color] to gain leverage over personnel, or threatened to fire or have [color=#009100]Centcomm[/color] fire personnel.
+[ ] 2. The [color=#009100]NanoTrasen Representative[/color] contacted [color=#009100]Central Command[/color] without attempting to resolve their contacting issue locally.
+[ ] 3. While absent of a [color=#1b67a5]Magistrate[/color], the [color=#009100]NanoTrasen Representative[/color] failed to ensure that Space Law is being followed and correctly applied.
+[ ] 4. The [color=#009100]NanoTrasen Representative[/color] administered class 1 or class 2 penalties regarding misinterpretations of Space Law in the absence of a [color=#1b67a5]Magistrate[/color], or attempted to administer class 3 penalties regarding Standard Operating Procedure or Space Law.
+[ ] 5. The [color=#009100]NanoTrasen Representative[/color] failed to defer to the [color=#1b67a5]Magistrate[/color] in matters not regarding Standard Operating Procedure.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
 *

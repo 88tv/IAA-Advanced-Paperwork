@@ -1,4 +1,4 @@
-#IA-LGL-01 Internal Affairs Agent Report
+#IA-CMD-04 Internal Affairs Agent Report
                             [color=#993333]╔═════════════════╗
                             ║███░███░░░░██░░░░║
                             ║░██░████░░░██░░░░║
@@ -6,8 +6,8 @@
                             ║░░░░██░░██░██░██░║
                             ║░░░░██░░░████░███║
                             ╚═════════════════╝[/color]
-[color=#6e6e6e][head=2]                 REPORT FORM: LGL-01     [/head]
-           -- This document is tied to Report Forms: LGL-00 --         [/color][color=#6e6e6e]
+[color=#6e6e6e][head=2]                 REPORT FORM: CMD-04     [/head]
+           -- This document is tied to Report Forms: CMD-00 --         [/color][color=#6e6e6e]
 
                                        [head=3][color=#993333]Internal Affairs[/head][/color]
 █▄ █ [bold]Author: Nastasia Jacent, Nanotrasen Secretary[/bold] █ ▀█   
@@ -17,10 +17,10 @@ This document serves as the detail report for breaches of SOP related to the [co
 
 [color=#993333][head=3]Internal Affairs Agent[/head][/color]
 [ ] 1. The [color=#993333]Agent[/color] failed to ensure that SOP was being properly followed.
-[ ] 2. The [color=#993333]Agent[/color] failed to attempt to locally resolve SOP breaches before contacting the [color=#009100]Nanotrasen Representative[/color] or [color=#009100]Central Command[/color].
-[ ] 3. The [color=#993333]Agent[/color] prosecuted personnel regarding crimes of Tier 3 or lower.
+[ ] 2. The [color=#993333]Agent[/color] failed to attempt to locally resolve SOP breaches before contacting [color=#009100]Central Command[/color].
+[ ] 3. The [color=#993333]Agent[/color] persecuted matters of Space Law while there was a [color=#1b67a5]Magistrate[/color] or a [color=#009100]NanoTrasen Representative[/color] on the station.
 [ ] 4. The [color=#993333]Agent[/color] failed unlawfully acted as legal representation for personnel during a court hearing.
-[ ] 5. The [color=#993333]Agent[/color] deliberately slowed or halted prisoner processing or investigations.
+[ ] 5. The [color=#993333]Agent[/color] administered class 2 or class 3 penalties for misconduct regarding Standard Operating Procedure, or administered class 1 penalties without approval from a presiding [color=#009100]NanoTrasen Representative[/color] or [color=#1b67a5]Magistrate[/color].
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
 *

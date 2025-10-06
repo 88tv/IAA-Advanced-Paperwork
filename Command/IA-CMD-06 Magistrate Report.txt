@@ -1,4 +1,4 @@
-#IA-CMD-05 Magistrate Report
+#IA-CMD-06 Magistrate Report
                             [color=#993333]╔═════════════════╗
                             ║███░███░░░░██░░░░║
                             ║░██░████░░░██░░░░║
@@ -6,7 +6,7 @@
                             ║░░░░██░░██░██░██░║
                             ║░░░░██░░░████░███║
                             ╚═════════════════╝[/color]
-[color=#6e6e6e][head=2]                 REPORT FORM: CMD-05     [/head]
+[color=#6e6e6e][head=2]                 REPORT FORM: CMD-06     [/head]
            -- This document is tied to Report Forms: CMD-00 --         [/color][color=#6e6e6e]
 
                                        [head=3][color=#993333]Internal Affairs[/ head][/color]
@@ -16,13 +16,10 @@
 This document serves as the detail report for breaches of SOP related to the [color=#1b67a5]Magistrate[/color]. Breaches of SOP detected by [color=#993333]Internal Affairs Agents[/color] in relation to the [color=#1b67a5]Magistrate[/color] should be detailed in full within this document.
 
 [color=#993333][head=3]Magistrate[/head][/color]
-[ ] 1. The [color=#1b67a5]Magistrate[/color] failed to ensure that Space Law is correctly applied.
-[ ] 2. The [color=#1b67a5]Magistrate[/color] failed to ensure that Trials do not occur for self-evidently guilty Defendants.
-[ ] 3. The [color=#1b67a5]Magistrate[/color] overruled or attempted to overrule matters of Space Law dictated by Emergency Response Teams, [color=#009100]Central Command[/color] Officials, or direct [color=#009100]Central Command[/color] communications.
-[ ] 5. The [color=#1b67a5]Magistrate[/color] overruled [color=#cb0000]Security[/color] on a sentence imposed on themselves.
-[ ] 6. The [color=#1b67a5]Magistrate[/color] handled matters of Standard Operating Procedure while an [color=#993333]Internal Affairs Agent[/color] or [color=#009100]Nanotrasen Representative[/color] was present on the station.
-[ ] 7. The [color=#1b67a5]Magistrate[/color] micromanaged and impeded the expedient functioning of [color=#cb0000]Security[/color], or otherwise concerned themselves with matters that do not warrant their oversight.
-[ ] 8. The [color=#1b67a5]Magistrate[/color] failed to contact [color=#009100]Central Command[/color] upon ignorance of their commands regarding the proper application of Space Law and Standard Operating Procedure.
+[ ] 3. The [color=#1b67a5]Magistrate[/color] failed to ensure that station resources are not wasted on frivolous trials or trials whose outcomes are foregone conclusions.
+[ ] 4. The [color=#1b67a5]Magistrate[/color] attempted to make rulings in matters regarding their own misconduct.
+[ ] 6. The [color=#1b67a5]Magistrate[/color] failed to ensure that the [color=#993333]Internal Affairs Agent[/color] and [color=#009100]NanoTrasen Representative[/color] under their command are responding appropriately to misconduct regarding Standard Operating Procedure.
+[ ] 7. The [color=#1b67a5]Magistrate[/color] failed to consult the  [color=#009100]NanoTrasen Representative[/color] before administering penalties regarding Standard Operating Procedure.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
 *

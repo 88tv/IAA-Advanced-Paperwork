@@ -19,6 +19,7 @@ This document serves as the detail report for breaches of SOP related to the [co
 [ ] 1. The [color=#9fed58]Janitor[/color] failed to respond to a call from the crew to clean within 15 minutes.
 [ ] 2. The [color=#9fed58]Janitor[/color] failed to place wet floor signs on or near surfaces they caused to be slippery, or created a slippery surface during a major crisis.
 [ ] 3. The [color=#9fed58]Janitor[/color] used Cleanades as pranking implements.
+[ ] 6. The [color=#9fed58]Janitor[/color] failed to make efforts to restock vending machines which are out of stock of any item.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
 *

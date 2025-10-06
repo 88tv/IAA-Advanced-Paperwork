@@ -17,12 +17,14 @@ This document serves as the detail report for breaches of SOP related to the [co
 
 [color=#993333][head=3]Captain[/head][/color]
 [ ] 1. The [color=#1b67a5]Captain[/color] unlawfully performed the duties of [color=#cb0000]Security[/color], or acquired items from the armory without the approval of the [color=#cb0000]Head of Security[/color], exception made for urgent emergencies.
-[ ] 2. The [color=#1b67a5]Captain[/color] failed to make reasonable efforts to appoint acting Heads of Staff.
-[ ] 3. The [color=#1b67a5]Captain[/color] failed to ensure that Space Law is correctly applied.
+[ ] 2. The [color=#1b67a5]Captain[/color] took items from the Armory or acquired weaponry otherwise through [color=#c96dbf]Science[/color] or [color=#b18644]Cargo[/color] without due reason.
+[ ] 3. The [color=#1b67a5]Captain[/color] failed to make reasonable efforts to appoint acting Heads of Staff.
 [ ] 4. The [color=#1b67a5]Captain[/color] left the station without approval by [color=#009100]Central Command[/color].
 [ ] 5. The [color=#1b67a5]Captain[/color] failed to keep the Nuclear Authentication Disk on their person.
+[ ] 6. The [color=#1b67a5]Captain[/color] contacted [color=#009100]Central Command[/color] without attempting to resolve their contacting issue locally.
 [ ] 7. The [color=#1b67a5]Captain[/color] disregarded general company policy.
-[ ] 9. The [color=#1b67a5]Captain[/color] fired a Head of Staff without reasonable justification, or attempted to fire [color=#009100]Central Command[/color] VIPs.
+[ ] 8. The [color=#1b67a5]Captain[/color] fired a Head of Staff without reasonable justification, or attempted to fire [color=#009100]Central Command[/color] VIPs.
+[ ] 9. The [color=#1b67a5]Captain[/color] failed to follow the SOP of a role which they perform or invoke the authority of.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
 *
