@@ -25,6 +25,7 @@ This document serves as the detail report for breaches of SOP related to the [co
 [ ] 7. [color=#b18644]Cargo[/color] is missing at least one copy of an Order Form.
 [ ] 10. A [color=#b18644]Cargo Technician[/color] requested spesos in exchange for a cargo order or autolathe usage.
 [ ] 11. A [color=#b18644]Cargo Technician[/color] traded items or favors in exchange for items with non-cargo personnel without approval from the [color=#b18644]Quartermaster[/color].
+[ ] 12. A [color=#b18644]Cargo Technician[/color] failed to ensure that mail delivery was being handled while the mail teleporter was on.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
 *

@@ -18,7 +18,7 @@ This document serves as the detail report for breaches of SOP related to the [co
 [color=#993333][head=3]Quartermaster[/head][/color]
 [ ] 1. A timely delivery of approved orders has failed to occur.
 [ ] 3. [color=#cb0000]Security[/color] equipment or gear was ordered without permission from the Head of [color=#cb0000]Security[/color] or [color=#1b67a5]Captain[/color], without reasonable exception.
-[ ] 5. The [color=#b18644]Quartermaster[/color] authorized the purchase of a Supermatter crate without the approval of the [color=#f39f27]Chief Engineer[/color].
+[ ] 5. The [color=#b18644]Quartermaster[/color] authorized the purchase of an HFR crate without the approval of the [color=#f39f27]Chief Engineer[/color].
 [ ] 6. The [color=#b18644]Quartermaster[/color] breached [color=#b18644]Cargo Technician[/color] guidelines
 [italic](If marked, detail exact breach here: )[/italic]
 
