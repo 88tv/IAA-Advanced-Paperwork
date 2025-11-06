@@ -22,7 +22,7 @@ This document serves as the detail report for breaches of SOP related to the [co
 [ ] 4. The [color=#1b67a5]Command[/color] member failed to ensure that the Corporate Secrets remain confidential.
 [ ] 5. The [color=#1b67a5]Command[/color] member failed to report breaks of confidentiality regarding Corporate Secrets as soon as reasonably possible.
 [ ] 6. The [color=#1b67a5]Command[/color] member failed to follow a [color=#009100]Central Command[/color] officer ([color=#009100]Nanotrasen Representative[/color], [color=#993333]Internal Affairs Agent[/color], [color=#1b67a5]Magistrate[/color])'s direction on Corporate Secrets.
-[ ] 7. The [color=#1b67a5]Command[/color] member failed to accept a fine, punishment, demotion, or execution issued by a [color=#009100]Central Command[/color] officer upon a breach of their confidentiality agreement.
+[ ] 7. The [color=#1b67a5]Command[/color] member failed to accept a fine, punishment, demotion, or execution issued by a [color=#009100]Central Command[/color] officer upon a breach of conduct.
 [ ] 8. The [color=#1b67a5]Command[/color] member violated the Circumstances Warranting Shift Length Alteration document in evacuating the station early or extending the shift.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
