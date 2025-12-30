@@ -19,7 +19,7 @@ This document serves as the detail report for breaches of SOP related to the [co
 [ ] 1. A [color=#b18644]Salvage Specialists[/color] is hoarding materials.
 [ ] 2. A [color=#b18644]Salvage Specialist[/color] has tricked a crewmember into using a Bluespace Crystal or has thrown a Bluespace Crystal at a crewmember.
 [ ] 3. A [color=#b18644]Salvage Specialist[/color] gave items acquired from an expedition to the crew without [color=#b18644]Quartermaster[/color] approval.
-[ ] 4. A [color=#b18644]Salvage Specialist[/color] broke SOP relating to [color=#b18644]Cargo Technicians[/color].
+[ ] 4. A [color=#b18644]Salvage Specialist[/color] broke SOP relating to [color=#b18644]Cargo Technicians[/color] while in the [color=#b18644]Cargo[/color] Bay.
 [italic](If marked, detail exact breach here: )[/italic]
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]

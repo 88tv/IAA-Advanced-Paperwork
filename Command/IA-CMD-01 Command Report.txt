@@ -18,8 +18,8 @@ This document serves as the detail report for breaches of SOP related to the [co
 [color=#993333][head=3]Command[/head][/color]
 [ ] 1. The [color=#1b67a5]Command[/color] member failed to ensure the safety of their department.
 [ ] 2. The [color=#1b67a5]Command[/color] member failed to ensure the wellbeing and dignity of Nanotrasen and its assets.
-[ ] 3. The [color=#1b67a5]Command[/color] member slandered Nanotrasen.
-[ ] 4. The [color=#1b67a5]Command[/color] member failed to ensure that the Corporate Secrets remain confidential.
+[ ] 3. The [color=#1b67a5]Command[/color] member slandered or libeled Nanotrasen.
+[ ] 4. The [color=#1b67a5]Command[/color] member failed to ensure that Corporate Secrets remain confidential.
 [ ] 5. The [color=#1b67a5]Command[/color] member failed to report breaks of confidentiality regarding Corporate Secrets as soon as reasonably possible.
 [ ] 6. The [color=#1b67a5]Command[/color] member failed to follow a [color=#009100]Central Command[/color] officer ([color=#009100]Nanotrasen Representative[/color], [color=#993333]Internal Affairs Agent[/color], [color=#1b67a5]Magistrate[/color])'s direction on Corporate Secrets.
 [ ] 7. The [color=#1b67a5]Command[/color] member failed to accept a fine, punishment, demotion, or execution issued by a [color=#009100]Central Command[/color] officer upon a breach of conduct.

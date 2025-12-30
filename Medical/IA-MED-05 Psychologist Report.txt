@@ -16,9 +16,9 @@
 This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Psychologist[/color]. Breaches of SOP detected by [color=#993333]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Psychologist[/color] should be detailed in full within this document.
 
 [color=#993333][head=3]Psychologist[/head][/color]
-[ ] 2. The [color=#5b97bc]Psychologist[/color] forced therapy on an unwilling patient.
+[ ] 2. The [color=#5b97bc]Psychologist[/color] forced therapy on an unwilling patient, with exception made to violent criminals demanded therapy by the [color=#cb0000]Head of Security[/color], [color=#1b67a5]Captain[/color], or [color=#1b67a5]Magistrate[/color].
 [ ] 3. The [color=#5b97bc]Psychologist[/color] administered medication without consent from their patient.
-[ ] 4. The [color=#5b97bc]Psychologist[/color] attempted to muzzle or straightjacket a patient without permission from the [color=#5b97bc]Chief Medical Officer[/color] or [color=#cb0000]Head of Security[/color], exception made to violent patients.
+[ ] 4. The [color=#5b97bc]Psychologist[/color] attempted to muzzle or straightjacket a patient without permission from the [color=#5b97bc]Chief Medical Officer[/color], [color=#cb0000]Head of Security[/color], [color=#1b67a5]Captain[/color], or [color=#1b67a5]Magistrate[/color], with exception made for violent patients.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
 *

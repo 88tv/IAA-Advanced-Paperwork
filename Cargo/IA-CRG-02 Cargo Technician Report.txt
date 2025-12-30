@@ -18,14 +18,14 @@ This document serves as the detail report for breaches of SOP related to the [co
 [color=#993333][head=3]Cargo Technician[/head][/color]
 [ ] 1. A timely delivery of approved orders has failed to occur.
 [ ] 2. Restricted crates have been ordered without approval.
-[ ] 3. Funds were used for personal use without funds of 2500 credits being available and there being no outstanding orders.
+[ ] 3. Funds were used for personal use without excess funds of 10,000 credits being available or with the presence of outstanding orders.
 [ ] 4. Non-essential items were ordered without the [color=#b18644]Quartermaster's[/color] approval.
 [ ] 5. Locked crates were broken open.
 [ ] 6. A [color=#b18644]Cargo Technician[/color] authorized non-departmental orders without permission from the [color=#b18644]Quartermaster[/color].
 [ ] 7. [color=#b18644]Cargo[/color] is missing at least one copy of an Order Form.
-[ ] 10. A [color=#b18644]Cargo Technician[/color] requested spesos in exchange for a cargo order or autolathe usage.
-[ ] 11. A [color=#b18644]Cargo Technician[/color] traded items or favors in exchange for items with non-cargo personnel without approval from the [color=#b18644]Quartermaster[/color].
-[ ] 12. A [color=#b18644]Cargo Technician[/color] failed to ensure that mail delivery was being handled while the mail teleporter was on.
+[ ] 9. A [color=#b18644]Cargo Technician[/color] requested spesos in exchange for legal orders or autolathe requests.
+[ ] 10. A [color=#b18644]Cargo Technician[/color] requested spesos in exchange for a cargo order or autolathe requests.
+[ ] 11. A [color=#b18644]Cargo Technician[/color] failed to ensure that mail delivery was being handled while the mail teleporter was on.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
 *

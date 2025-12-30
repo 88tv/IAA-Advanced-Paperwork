@@ -17,7 +17,7 @@ This document serves as the detail report for breaches of SOP related to the [co
 
 [color=#993333][head=3]Security Officer/Cadet[/head][/color]
 [head=4][color=#008000]GREEN[/color][/head]
-[ ] G-2. The [color=#cb0000]officer[/color] failed to state the reasons of an arrest before detainment occurred.
+[ ] G-2. The [color=#cb0000]officer[/color] failed to state the reasons of an arrest before detainment occurred, with exception made if the suspect refuses to stop.
 [ ] G-3. The [color=#cb0000]officer[/color] failed to attempt to bring a suspect to the Brig without incapacitating or handcuffing them.
 [ ] G-4. The [color=#cb0000]officer[/color] brandished a weapon during a detainment before the suspect became hostile or attempted to flee.
 [ ] G-5. The [color=#cb0000]officer[/color] demanded access to a department during regular patrols without receiving access by the [color=#1b67a5]Head of Personnel[/color].
@@ -26,7 +26,7 @@ This document serves as the detail report for breaches of SOP related to the [co
 [ ] G-8. The [color=#cb0000]officer[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
 
 [head=4][color=#00FFFF]BLUE[/color][/head]
-[ ] G-2. The [color=#cb0000]officer[/color] failed to state the reasons of an arrest before detainment occurred.
+[ ] G-2. The [color=#cb0000]officer[/color] failed to state the reasons of an arrest before detainment occurred, with exception made if the suspect refuses to stop.
 [ ] B-2. The [color=#cb0000]officer[/color] carried more than one weapon or piece of equipment from the [color=#cb0000]armory[/color] at once without the presence of a severe emergency.
 [ ] G-4. The [color=#cb0000]officer[/color] brandished a weapon during a detainment before the suspect became hostile or attempted to flee.
 [ ] B-6. The [color=#cb0000]officer[/color] unreasonably applied force in searching a crewmember.

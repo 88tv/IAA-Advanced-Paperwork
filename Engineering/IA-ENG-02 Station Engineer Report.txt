@@ -21,8 +21,8 @@ This document serves as the detail report for breaches of SOP related to the [co
 [ ] 3. [color=#f39f27]Engineers[/color] attempted to construct additional engines without approval from the [color=#f39f27]Chief Engineer[/color].
 [ ] 4. [color=#f39f27]Engineers[/color] carried out reconstruction, rebuilding, or personal projects while station repair was necessary.
 [ ] 5. [color=#f39f27]Engineers[/color] failed to check on each active engine at least once every 30 minutes.
-[ ] 6. [color=#f39f27]Engineers[/color] failed to constantly monitor the Supermatter Engine.
-[ ] 7. [color=#f39f27]Engineers[/color] failed to report to a hull breach within 15 minutes. 
+[ ] 6. [color=#f39f27]Engineers[/color] failed to constantly monitor the Supermatter Engine while it was under emitter fire.
+[ ] 7. [color=#f39f27]Engineers[/color] failed to report to a hull breach within 15 minutes or failed to ensure that hazardous areas were cordoned off with engineering tape or holobarriers.
 [ ] 9. [color=#f39f27]Engineers[/color] failed to maintain the integrity of the station's power network.
 [ ] 10. [color=#f39f27]Engineers[/color] failed to ensure that there was at least one engineering hardsuit available on the station at all times.
 

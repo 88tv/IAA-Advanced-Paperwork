@@ -16,12 +16,12 @@
 This document serves as the detail report for breaches of SOP related to the [color=#f39f27]Atmospheric Technician[/color]. Breaches of SOP detected by [color=#993333]Internal Affairs Agents[/color] in relation to the [color=#f39f27]Atmospheric Technician[/color] should be detailed in full within this document.
 
 [color=#993333][head=3]Atmospheric Technician[/head][/color]
-[ ] 1. The [color=#f39f27]Atmospheric Technician[/color] pumped harmful gases into distro or waste.
+[ ] 1. The [color=#f39f27]Atmospheric Technician[/color] pumped harmful gases into distro.
 [ ] 2. The [color=#f39f27]Atmospheric Technician[/color] created volatile or harmful mixes used outside of atmospherics.
-[ ] 3. The [color=#f39f27]Atmospheric Technician[/color] took the axe out of its case without an immediate and urgent threat to their life or urgent access to critical locations was necessary, or the [color=#f39f27]Atmospheric Technician[/color] failed to properly return and lock the axe back in its case afterwards.
+[ ] 3. The [color=#f39f27]Atmospheric Technician[/color] took the axe out of a construction zone without an immediate and urgent threat to their life or urgent access to critical locations was necessary, or the [color=#f39f27]Atmospheric Technician[/color] failed to properly return and lock the axe back in its case afterwards.
 [ ] 4. The [color=#f39f27]Atmospheric Technician[/color] tampered with the default values of air alarms outside of atmospherics without permission from the [color=#f39f27]Chief Engineer[/color].
 [ ] 5. The [color=#f39f27]Atmospheric Technician failed[/color] to check on the Central Alarms Computer at least once every 30 minutes.
-[ ] 6. The [color=#f39f27]Atmospheric Technician failed[/color] to report to piping or hull breaches within 15 minutes of their occurrence.
+[ ] 6. The [color=#f39f27]Atmospheric Technician failed[/color] to report to piping or hull breaches within 15 minutes of their occurrence or failed to ensure that hazardous areas were cordoned off with firelocks.
 [ ] 7. The [color=#f39f27]Atmospheric Technician failed[/color] failed to ensure that distro has a steady supply of the appropriate mix or failed to ensure the station remained breathable.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
