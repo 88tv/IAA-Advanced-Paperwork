@@ -19,7 +19,8 @@ This document serves as the detail report for breaches of SOP related to the [co
 [head=4][color=#008000]GREEN[/color][/head]
 [ ] G-1. The [color=#cb0000]Warden[/color] performed an arrest while [color=#cb0000]Security Officers[/color] were active.
 [ ] G-2. The [color=#cb0000]Warden[/color] failed to conduct a thorough search of a prisoner's belongings.
-[ ] G-3. The [color=#cb0000]Warden[/color] failed to permit a trial in the circumstances described in Legal SOP, or failed to provide a suspect access to confidential meetings with their legal representative.
+[ ] G-3a. The [color=#cb0000]Warden[/color] failed to permit a trial in the circumstances described in Legal SOP.
+[ ] G-3b. The [color=#cb0000]Warden[/color] failed to provide a suspect access to confidential meetings with their legal representative.
 [ ] G-4. The [color=#cb0000]Warden[/color] failed to permit a suspect charged with a Tier 3 time or greater access to legal representation during an interrogation.
 [ ] G-5. The [color=#cb0000]Warden[/color] unlawfully provided weapons or armor from the [color=#cb0000]armory[/color].
 [ ] G-7. A portable flasher was placed within the [color=#cb0000]Brig[/color].
@@ -32,7 +33,8 @@ This document serves as the detail report for breaches of SOP related to the [co
 [ ] G-1. The [color=#cb0000]Warden[/color] performed an arrest while [color=#cb0000]Security Officers[/color] were active.
 [ ] G-2. The [color=#cb0000]Warden[/color] failed to conduct a thorough search of a prisoner's belongings.
 [ ] B-2. Guns were provided from the armory without the [color=#cb0000]HOS[/color] or [color=#1b67a5]Captain[/color]'s approval, with exception made to station ending threats or terrorism.
-[ ] G-3. The [color=#cb0000]Warden[/color] failed to permit a trial in the circumstances described in Legal SOP, or failed to provide a suspect access to confidential meetings with their legal representative.
+[ ] G-3a. The [color=#cb0000]Warden[/color] failed to permit a trial in the circumstances described in Legal SOP.
+[ ] G-3b. The [color=#cb0000]Warden[/color] failed to provide a suspect access to confidential meetings with their legal representative.
 [ ] G-4. The [color=#cb0000]Warden[/color] failed to permit a suspect charged with a Tier 3 time or greater access to legal representation during an interrogation.
 [ ] G-9. The [color=#cb0000]Warden[/color] failed to read to a prisoner the crimes they are sentenced with.
 [ ] G-11. The [color=#cb0000]Warden[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.

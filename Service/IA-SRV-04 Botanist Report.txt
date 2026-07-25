@@ -21,8 +21,9 @@ This document serves as the detail report for breaches of SOP related to the [co
 [ ] 3. The [color=#9fed58]Botanist[/color] caused unregulated plantlife to spread outside of [color=#9fed58]Hydroponics[/color] without permission from the [color=#1b67a5]Head of Personnel[/color] or the [color=#1b67a5]Captain[/color].
 [ ] 4. The [color=#9fed58]Botanist[/color] handed out spatially unstable [color=#9fed58]Botanical[/color] Supplies to non-[color=#9fed58]Hydroponics[/color] personnel.
 [ ] 5. The [color=#9fed58]Botanist[/color] provided Amanitin or other plant-derived poisons to crewmembers without specific request by the [color=#cb0000]Head of Security[/color] or [color=#1b67a5]Captain[/color].
-[ ] 6. The [color=#9fed58]Botanist[/color] acquired the use of a chemical dispenser without the permission of the [color=#C96DBF[/color]Research Director[/color] and the [color=#1b67a5]Head of Personnel[/color].
-[ ] 7. The [color=#9fed58]Botanist[/color] carried dangerous plantlife outside of [color=#9fed58]botany[/color], or allowed such plantlife to exist outside of [color=#9fed58]botany[/color].
+[ ] 6. The [color=#9fed58]Botanist[/color] acquired the use of a chemical dispenser without the permission of the [color=#C96DBF]Research Director[/color] and the [color=#1b67a5]Head of Personnel[/color].
+[ ] 7a. The [color=#9fed58]Botanist[/color] carried dangerous plantlife outside of [color=#9fed58]botany[/color].
+[ ] 7b. The [color=#9fed58]Botanist[/color] allowed dangerous plantlife to exist outside of [color=#9fed58]botany[/color].
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
 *

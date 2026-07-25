@@ -17,7 +17,8 @@ This document serves as the detail report for breaches of SOP related to the [co
 
 [color=#993333][head=3]Head of Security[/head][/color]
 [head=4][color=#008000]GREEN[/color]/[color=#00FFFF]BLUE[/color][/head]
-[ ] G-3. The [color=#cb0000]HOS[/color] failed to permit a trial as outlined in Legal SOP, or failed to permit suspects access to confidential meetings with chosen legal representatives.
+[ ] G-3a. The [color=#cb0000]HOS[/color] failed to permit a trial as outlined in Legal SOP
+[ ] G-3b. The [color=#cb0000]HOS[/color] failed to permit suspects access to confidential meetings with chosen legal representatives.
 [ ] G-4. The [color=#cb0000]HOS[/color] failed to permit a suspect charged with crimes of Tier 3 or greater access to legal representation during interrogation.
 [ ] G-5. The [color=#cb0000]HOS[/color] failed to follow [color=#cb0000]Warden[/color] SOP regarding [color=#cb0000]Armory[/color] equipment, portable flashers, or deployable barriers.
 [ ] G-6. The [color=#cb0000]HOS[/color] carried equipment from the armory on their person.

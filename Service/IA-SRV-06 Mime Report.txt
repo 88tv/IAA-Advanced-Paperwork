@@ -16,7 +16,7 @@
 This document serves as the detail report for breaches of SOP related to the Mime. Breaches of SOP detected by [color=#993333]Internal Affairs Agents[/color] in relation to the Mime should be detailed in full within this document.
 
 [color=#993333][head=3]Mime[/head][/color]
-[ ] 1. The Mime spoke. They are to be stripped of their rank if they break this guideline.
+[ ] 1. The Mime spoke.
 [ ] 2. The Mime failed to mime something at least once every 30 minutes.
 
 [color=#993333][head=3]Crewmembers at Fault[/head][/color]
